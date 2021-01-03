@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(96, 201, 228);
+    font: normal 20pt Arial;
+}
+
+header {
+
+    color: white;
+    text-align: center;
+}
+
+section {
+
+    background-color: white;
+    font: normal 12pt Arial;
+    width: 800px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+
+table#entrada {
+ 
+    width: 800px;
+}
+
+table#exibir {
+ 
+    width: 800px;
+}
+
+td#red{
+    font: bold Arial;
+    color: rgb(255, 255, 255);
+    background-color: rgb(219, 109, 109);
+    border-radius: 3px;
+    width: 20px
+}
+td#azul{
+    font: bold Arial;
+    color: rgb(255, 255, 255);
+    background-color: rgb(179, 179, 179);
+    border-radius: 3px;
+    width: 20px
+}
+td#local{
+    text-align: left;
+}
+table#exibir thead {
+
+    background-color:  rgb(172, 236, 200);
+    
+
+}
+table#exibir tbody {
+
+    background-color:  rgb(212, 233, 221);;
+
+}
+table{
+
+    text-align: center;
+  
+}
+
+input {
+
+   width: 100px;
+
+}
+
+div#a{
+
+    text-align: center;
+    
+    }
+
+div#b{
+
+text-align: center;
+
+}
+
+footer {
+
+    color: white;
+    font-style: italic;
+    text-align: center;
+
+}

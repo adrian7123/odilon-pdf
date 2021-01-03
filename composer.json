@@ -1,0 +1,21 @@
+{
+    "name": "adrian/odilon-main",
+    "description": "Odilon o cara",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Adrian7123",
+            "email": "bueno1dad@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}
